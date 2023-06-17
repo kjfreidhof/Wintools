@@ -1,0 +1,7 @@
+Mozilla.Firefox
+Neovim.Neovim
+Oracle.VirtualBox
+VMware.WorkstationPro
+Microsoft.VisualStudioCode
+7zip.7zip
+Spotify.Spotify
