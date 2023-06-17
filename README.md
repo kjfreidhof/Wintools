@@ -2,7 +2,7 @@
 This is a program designed modify Windows to control the programs that are installed on my system that i have decided to open source under the MIT license For others to use modify the code fork it make their own do What ever they want with it.
 
 ## What is this Project 
-  These are scripts designed to modify windows to my liking and the way i want my opreating system the way i want in a powershell script in this repo their are 4 scripts inside of the directories but their ae more that will be added as i go along with the project   
+  These are scripts designed to modify windows to my liking and the way i want my opreating system the way i want in a powershell script in this repo their are many scripts inside of the directories but their ae more that will be added as i go along with the project   
 
 ### Setup 
 -   Not much is required to use this script the first thing you need to do is
